@@ -26,11 +26,11 @@
 
 ## 🎯 About Me
 
-🎓 First Year B.Tech CSE (Data Science) Student
+🎓 Second Year B.Tech CSE (Data Science) Student
 
 🏫 S. B. Jain Institute of Technology, Management & Research, Nagpur
 
-📈 Current CGPA: **8.45**
+📈 Current CGPA: **8.61**
 
 ☁️ Active Google Cloud Arcade Learner
 
