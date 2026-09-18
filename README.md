@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vinay Kumbhare</h1>
 
-<!--
-**VinayKumbhare/VinayKumbhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech CSE (Data Science) Student | Cloud Learner | Aspiring AI Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Google+Cloud+Arcade+Learner;Python+Developer;Future+AI+Engineer&center=true&width=500&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Achievements
+
+✅ Google Cloud Arcade Participant
+
+✅ Multiple Google Cloud Skill Badges
+
+✅ Python Programming Certificate
+
+✅ C Programming Certificate
+
+---
+
+## ☁️ Google Cloud Journey
+
+- Cloud Computing Fundamentals
+- Generative AI Learning
+- Google Cloud Arcade Challenges
+- Hands-on Labs & Skill Badges
+
+---
+
+## 💻 Featured Projects
+
+### AquaGuard AI
+AI-powered marine monitoring platform.
+
+### Student Performance Evaluation System
+C-based student grading system.
+
+### Student Marks Analysis
+Python project for marks and grade analysis.
+
+---
+
+## 📊 GitHub Stats
+
+[Stats Here]
+
+---
+
+## 🌐 Connect
+
+LinkedIn
+Portfolio
+GitHub
